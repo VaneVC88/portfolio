@@ -1,1 +1,95 @@
 /* Inserta tu codigo CSS aqui */
+
+header
+{
+	background-image: url("../img/header.jpg");
+	margin:0 auto;
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding-bottom:15%;
+	background-position: 50% 50%;
+
+}
+
+nav ul 
+{
+	
+	list-style-type: none;
+	box-sizing:border-box;
+	width: 460px;
+	padding-top: 15px;
+
+}
+nav li 
+{
+	display:inline;
+	padding-right: 4%;
+	padding-left:4%;
+	box-sizing:border-box;
+	padding-top: 5%;
+	
+}
+nav a 
+{
+	color:white;
+	text-decoration: none;
+}
+
+.text-white
+{
+	color:white;
+}
+
+nav li:hover
+{
+	font-weight: bold;
+}
+
+
+strong
+{
+	font-weight: bold;
+}
+.text-presentation	
+{
+	padding-left: 20px;
+	padding-right: 30px;
+	box-sizing:border-box;
+	padding-top: 160px;
+}
+
+.text-presentation h1
+{
+	font-size:45px;
+}
+.orange
+{
+	color:
+}
+hr 
+{
+	border:2px solid #FC4D00;
+	width:35px;
+}
+
+.text-center
+{
+	text-align: center;
+}
+.text-info
+{
+	box-sizing:border-box;
+	padding-bottom: 20px;
+
+
+}
+
+.btn
+{
+	border-radius: 25px;
+	border-style: none;
+}
+.know-it
+{
+	background-color: #FC4D00;
+}
