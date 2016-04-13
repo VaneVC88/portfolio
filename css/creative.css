@@ -1,1 +1,230 @@
-/* Inserta tu codigo CSS aqui */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+section{
+	margin: 0 auto;
+}
+
+.nopadding {
+   padding: 0 !important;
+   margin: 0 !important;
+}
+
+.bg-gris{
+	background-color: #181818;
+	height: 150px;
+}
+
+#proyecto{
+	font-size: 20px;
+	margin-left: 380px;
+	padding-top: 40px;
+	color: white;
+}
+
+.btn-default{
+	margin-left: 550px;
+	margin-top: -130px;
+	border-radius: 100px;
+	font-size: 10px;
+	padding: 10px 20px;
+}
+
+.bg-blanco{
+	height: 300px;
+	margin-top: -20px;
+	background-color: white;
+}
+
+#contact{
+	font-size: 20px;
+	margin-top: 60px;
+	margin-left: 540px;
+}
+
+.linea{
+	border: 1px solid #f05f40;
+	width: 50px;
+	margin-left: 588px;
+	
+}
+
+#llamada{
+	text-align: center;
+	margin-left: 300px;
+	margin-top: 10px;
+}
+
+.fa-phone{
+	font-size: 30px;
+	margin-left: 410px;
+}
+
+.fa-envelope-o{
+	font-size: 30px;
+	margin-left: 200px;
+	margin-bottom: -500px;
+}
+
+#numero{
+	margin-left: 380px;
+}
+
+#mail{
+	margin-left: 150px;
+}
