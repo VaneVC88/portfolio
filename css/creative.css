@@ -1,1 +1,151 @@
-/* Inserta tu codigo CSS aqui */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.container{
+	background-color: #f05f40;
+	color: white;
+	height: 200px;
+	width: 1200px;
+}
+
+.titulo{
+	text-align: center;
+	padding-top:10px;
+	padding-right: 84px;
+
+	
+}
+
+.parrafo{
+	text-align: center;
+	font-size: 10px;
+	
+}
+
+
+
+.container1{
+	text-align: center;
+
+}
+
+.titulo1{
+	font-size: 20px;
+	padding-top: 20px;
+	
+}
+
+.borde-orange {
+   border-bottom: 2px solid orange;
+   width: 40px;
+
+}
+
+.borde-blanco {
+	width: 40px; border: 2px solid white;
+
+}
+
+.color{
+	color:#f05f40;
+}
+
+.peque{
+	font-size: 14px;
+	color:black;
+}
+
+.subpeque{
+	font-size: 10px;
+	color:#A89E9E;
+}
+
+
+.fa{
+font-size: 30px;
+}
+
+
+
+
+
+
+
+
+
