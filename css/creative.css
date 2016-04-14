@@ -1,3 +1,4 @@
+
 /* Inserta tu codigo CSS aqui */
 
 header
@@ -93,3 +94,141 @@ hr
 {
 	background-color: #FC4D00;
 }
+
+.container{
+	background-color: #f05f40;
+	color: white;
+	height: 200px;
+	width: 1200px;
+}
+
+.titulo{
+	text-align: center;
+	padding-top:10px;
+	padding-right: 84px;
+
+	
+}
+
+.parrafo{
+	text-align: center;
+	font-size: 10px;
+	
+}
+
+
+
+.container1{
+	text-align: center;
+
+}
+
+.titulo1{
+	font-size: 20px;
+	padding-top: 20px;
+	
+}
+
+.borde-orange {
+   border-bottom: 2px solid orange;
+   width: 40px;
+
+}
+
+.borde-blanco {
+	width: 40px; border: 2px solid white;
+
+}
+
+.color{
+	color:#f05f40;
+}
+
+.peque{
+	font-size: 14px;
+	color:black;
+}
+
+.subpeque{
+	font-size: 10px;
+	color:#A89E9E;
+}
+
+
+.fa{
+font-size: 30px;
+}
+
+section{
+	margin: 0 auto;
+}
+
+.nopadding {
+   padding: 0 !important;
+   margin: 0 !important;
+}
+
+.bg-gris{
+	background-color: #181818;
+	height: 150px;
+}
+
+#proyecto{
+	font-size: 20px;
+	margin-left: 380px;
+	padding-top: 40px;
+	color: white;
+}
+
+.btn-default{
+	margin-left: 550px;
+	margin-top: -130px;
+	border-radius: 100px;
+	font-size: 10px;
+	padding: 10px 20px;
+}
+
+.bg-blanco{
+	height: 300px;
+	margin-top: -20px;
+	background-color: white;
+}
+
+#contact{
+	font-size: 20px;
+	margin-top: 60px;
+	margin-left: 540px;
+}
+
+.linea{
+	border: 1px solid #f05f40;
+	width: 50px;
+	margin-left: 588px;
+	
+}
+
+#llamada{
+	text-align: center;
+	margin-left: 300px;
+	margin-top: 10px;
+}
+
+.fa-phone{
+	font-size: 30px;
+	margin-left: 410px;
+}
+
+.fa-envelope-o{
+	font-size: 30px;
+	margin-left: 200px;
+	margin-bottom: -500px;
+}
+
+#numero{
+	margin-left: 380px;
+}
+
+#mail{
+	margin-left: 150px;
+}
+
